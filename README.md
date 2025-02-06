@@ -8,3 +8,7 @@ This repository contains basic image processing scripts using OpenCV.
 
 ## How to Run  
 1. Install OpenCV:  
+pip install opencv-python
+
+2. Run the script:  
+python basic_image_processing.py
